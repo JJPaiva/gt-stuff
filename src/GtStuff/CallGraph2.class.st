@@ -1,7 +1,7 @@
 Class {
 	#name : #CallGraph2,
 	#superclass : #Object,
-	#category : #GtStuff
+	#category : #'GtStuff-Model'
 }
 
 { #category : #accessing }
